@@ -37,7 +37,7 @@
 
 私たちの新しい仲間になりたい！と思うみなさんからのご応募をお待ちしております。
 
-採用担当: **角谷信太郎(@kakutani: [Twitter](http://twitter.com/kakutani),[Github](http://git.io/kakutani)),[Facebook](http://https://www.facebook.com/kakutani)**
+採用担当: **角谷信太郎(@kakutani: [Twitter](http://twitter.com/kakutani),[Github](http://git.io/kakutani),[Facebook](http://https://www.facebook.com/kakutani))**
 
 ## FAQ
 
