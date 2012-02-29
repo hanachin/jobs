@@ -30,6 +30,8 @@
 * (必須) **「私を中途採用すべきnの理由(n > 0)」**
 * (オプション)**あなたのWeb日記またはブログのURL**
 * (オプション) **あなたの[speakerdeck.com](http://speakerdeck.com)や[slideshare.net](http://www.slideshare.net)といったスライド共有サービスのアカウント名**と、イチオシのトークの説明
+* (オプション) [stackoverflow.com](http://stackoverflow.com/)のユーザーID。
+
 
 いただいた情報をもとに選考をおこない、1週間以内にこちらからご連絡をさしあげます。
 
