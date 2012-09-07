@@ -1,55 +1,19 @@
-(このジョブポストは永和システムマネジメントの中途採用に関連した書きかけ項目です。内容は予告なく編集されることがあります。このリポジトリのmasterのHEADが常に最新版です)
-
 ## We're hiring!
 
-株式会社永和システムマネジメント サービスプロバイディング事業部アジャイルグループでは、
-アジャイル開発とオブジェクト指向スクリプト言語Rubyを使って「お客さまに価値を提供し続けるシステム」を構築し、
-お客様と一緒に育てていくという強みを活かした受託開発を生業としています。
-今回、私たちの強みをさらに伸ばしていくために**Rubyプログラマ**を中途採用します。
+現在募集中のポジション:
 
-(github:jobsにポストしていますが、文面からお分かりのように、日本語でのコミュニケーションに支障のない方を募集します)
+- [Rubyist.md](https://github.com/esminc/jobs/blob/master/Rubyist.md)
+- Agile Designer(wannabies): [Agile Designer](https://github.com/esminc/jobs/blob/master/Rubyist.md)
 
-いま現在あなたが何者であるかよりも、次のような者でありたいと**強く願う方**の応募をお待ちしております(職務経歴に空白期間があっても気にしません)。
-
-* **Rubyを使って**アジャイルにお客さまに価値を届けることに情熱を傾けられる方
-* **Rubyコミュニティの一員となって**成果をあげていくことに価値を見出せる方
-* チームで仕事を終わらせていくことに達成感を感じられる方
-
-## 勤務地
-
-東京支社(台東区上野)
-
-(プロジェクトによっては、客先で作業する場合もあります。長さや頻度はプロジェクトごとで異なります)
-
-## 応募にあたって教えていただきたこと
-
-下記4点の情報を含めたメールを、jobs@qwik.tky.esm.co.jp 宛に送信してください。
-
-* (必須) **あなたのgithub.comアカウント名**と、あなたのgithub.comでの活動内容
-* (必須) [coderwall.com](http://coderwall.com)にサインアップして、**バッヂが表示される状態**にしておいてください
-* (必須) **「私を中途採用すべきnの理由(n > 0)」**
-* (オプション)**あなたのWeb日記またはブログのURL**
-* (オプション) **あなたの[speakerdeck.com](http://speakerdeck.com)や[slideshare.net](http://www.slideshare.net)といったスライド共有サービスのアカウント名**と、イチオシのトークの説明
-* (オプション) [stackoverflow.com](http://stackoverflow.com/)のユーザーID。
-
-
-いただいた情報をもとに選考をおこない、1週間以内にこちらからご連絡をさしあげます。
-
+詳細はそれぞれのリンク先を参照ください。
 私たちの新しい仲間になりたい！と思うみなさんからのご応募をお待ちしております。
 
-採用担当: **角谷信太郎(@kakutani: [Twitter](http://twitter.com/kakutani),[Github](http://git.io/kakutani),[Facebook](http://https://www.facebook.com/kakutani))**
+## 採用担当
 
-## FAQ
+**角谷信太郎(@kakutani: [Twitter](http://twitter.com/kakutani),[Github](http://git.io/kakutani),[Facebook](http://https://www.facebook.com/kakutani))**
 
-### なぜ、githubなのか? なぜcoderwallなのか?
 
-私たちが現在重視しているのは、gitではなくgithub、もっといえば"Social Coding"に前向きな技術者です。coderwallは採用可否の絶対的な基準ではありませんが、ひとつの目安にはなると思います。
-
-たとえば、採用担当である[kakutaniよりもAchievements(バッヂ)](http://coderwall.com/kakutani)が多い方は、それだけgithubを活用されているので、あなたの活動実績としてのボーナスポイントにはなります。
-
-kakutaniよりもバッヂが少ないからといって減点することはありませんが、その場合は「私を中途採用すべきnの理由(n > 0)」でバッヂの少なさを補って余りある、あなたのガッツとパッションが表現されていることを期待します <3
-
-技術者の価値がバッヂの数で决まるわけがありません。その点は誤解なきようお願いします。
+## 共通FAQ
 
 ### 応募した後はどうなるの？
 
