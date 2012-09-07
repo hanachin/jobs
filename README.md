@@ -3,7 +3,7 @@
 現在募集中のポジション:
 
 - [Rubyist.md](https://github.com/esminc/jobs/blob/master/Rubyist.md)
-- Agile Designer(wannabies): [Agile Designer](https://github.com/esminc/jobs/blob/master/Rubyist.md)
+- Agile Designer(wannabies): [Agile Designer](https://github.com/esminc/jobs/blob/master/AgileDesigner.md)
 
 詳細はそれぞれのリンク先を参照ください。
 私たちの新しい仲間になりたい！と思うみなさんからのご応募をお待ちしております。
