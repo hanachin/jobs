@@ -10,7 +10,7 @@
 
 ## 採用担当
 
-**角谷信太郎(@kakutani: [Twitter](http://twitter.com/kakutani),[Github](http://git.io/kakutani),[Facebook](http://https://www.facebook.com/kakutani))**
+**角谷信太郎(@kakutani: [Twitter](http://twitter.com/kakutani),[Github](http://git.io/kakutani),[Facebook](https://www.facebook.com/kakutani))**
 
 
 ## 共通FAQ
