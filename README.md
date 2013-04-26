@@ -1,6 +1,6 @@
 ## We're hiring!
 
-現在募集中のポジション:
+~~現在募集中のポジション:~~2013-04-26現在、募集しているポジションはありません。
 
 - [Rubyist](https://github.com/esminc/jobs/blob/master/Rubyist.md)
 - [Agile Designer](https://github.com/esminc/jobs/blob/master/AgileDesigner.md)
